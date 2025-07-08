@@ -18,3 +18,5 @@ python3 WhatsHacker.py (32bit,64bit)
 ![Screenshot_20250708-153042_1.jpg](https://raw.githubusercontent.com/yourinlive/WhatsHacker/refs/heads/main/Screenshot_20250708-153042_1.jpg)
 
 ![Screenshot_20250708-153220_1.jpg](https://raw.githubusercontent.com/yourinlive/WhatsHacker/refs/heads/main/Screenshot_20250708-153220_1.jpg)
+
+`TOOLS INI HANYA SEKEDAR UNTUK PELAJARAN SEMATA,JANGAN PERGUNAKAN UNTUK HEK NASA KARENA ITU TIDAK MUNGKIN 😂`
