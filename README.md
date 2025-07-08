@@ -4,6 +4,7 @@
 
 `TUTORIAL INSTALASI IN TERMUX`
 ```
+termux-setup-storage
 git clone https://github.com/yourinlive/WhatsHacker.git
 cd WhatsHacker
 pip install cryptography
