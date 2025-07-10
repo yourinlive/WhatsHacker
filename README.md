@@ -7,7 +7,10 @@
 termux-setup-storage
 git clone https://github.com/yourinlive/WhatsHacker.git
 cd WhatsHacker
+pip install bs4
+pip install requests
 pip install cryptography
+apt install python-cryptography
 pip install pathlib
 python3 WhatsHacker.py (32bit,64bit)
 ```
